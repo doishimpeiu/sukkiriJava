@@ -15,3 +15,5 @@ int input = new java.util.Scanner(System.in).nextInt();
 //改行せずに画面に文字を表示する
 System.out.print("こんにちは");
 
+//文字列の比較
+文字列型の変数.equals(比較相手の文字列)

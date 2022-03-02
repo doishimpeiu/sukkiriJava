@@ -1,0 +1,17 @@
+関数マスター
+
+//2つの値を比較して大きい方の数値を代入する
+int m = Math.max(1, 2);  
+
+//文字列を数値に変換する
+int n = Integer.parseInt(23);
+
+//キーボードから1行の文字列の入力を受け付ける
+String s = new java.util.Scanner(System.in).nextLine();
+
+//キーボードから1つの整数の入力を受け付ける
+int input = new java.util.Scanner(System.in).nextInt();
+
+//改行せずに画面に文字を表示する
+System.out.print("こんにちは");
+

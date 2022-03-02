@@ -17,3 +17,6 @@ System.out.print("こんにちは");
 
 //文字列の比較
 文字列型の変数.equals(比較相手の文字列)
+
+//ランダム生成
+int fortune = new java.util.Random().nextInt(3);
